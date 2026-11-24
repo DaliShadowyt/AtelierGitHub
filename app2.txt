@@ -1,1 +1,2 @@
 dali version
+Version 2 - Ajout d'une nouvelle fonctionnalité
